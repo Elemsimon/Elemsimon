@@ -7,7 +7,7 @@ With experience in **React, Next.js, TypeScript, and WordPress**, I combine clea
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 **Languages & Frameworks:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
@@ -34,7 +34,7 @@ With experience in **React, Next.js, TypeScript, and WordPress**, I combine clea
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Simon Elem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elemsimon&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elemsimon&layout=compact&theme=tokyonight)  
