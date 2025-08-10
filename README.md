@@ -28,7 +28,6 @@ With experience in **React, Next.js, TypeScript, and WordPress**, I combine clea
 ## 📫 **Let’s Connect**
 
 - **Portfolio:** [simonelem.vercel.app](https://simonelem.vercel.app)  
-- **LinkedIn:** [linkedin.com/in/simon-elem](https://linkedin.com/in/simon-elem)  
-- **Email:** simonelem@proton.me  
+- **LinkedIn:** [linkedin.com/in/simon-elem](https://linkedin.com/in/simon-elem) 
 
 ⚡ **I'm always looking for exciting opportunities to work with innovative teams. If you have a project or role that could benefit from my expertise, feel free to reach out!**
